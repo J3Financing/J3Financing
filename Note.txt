@@ -1,0 +1,2 @@
+ung FFTracker file i copypaste sa C:\xampp\htdocs\FFTracker
+try replacingung data file sa C:\xampp\mysql\data
